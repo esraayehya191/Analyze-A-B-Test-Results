@@ -17,7 +17,7 @@ For this project, I will be working to understand the results of an A/B test run
 A company has developed a new e-commerce web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product.
 
 The main goal of this project was to understand the results of an A/B test run by the website and provide statistical and practical interpretation on the test results.
-For more details check [Analyze_ab_test_results_notebook.html]
+For more details check [Analyze_ab_test_results_notebook.ipynb](https://github.com/esraayehya191/Analyze-A-B-Test-Results/blob/main/Analyze_ab_test_results_notebook.ipynb)
 
-## Results
-There was no sufficient evidence found to suggest that the new page converts better than the old one.
+## Conclusions
+Generally, we do not have sufficient evidence to suggest that the new page results in more conversions than the old one, based on the probability, A/B test and regression.
